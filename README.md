@@ -87,6 +87,13 @@ I'm continuously building projects around backend development, distributed syste
 * AI-powered applications
 * Developer productivity and automation
 
+## 🎓 Certifications
+
+- **[Advanced Software Engineering Job
+Simulation]()** — Issuing Organization
+- **[Certification Name](CERTIFICATION_URL)** — Issuing Organization
+- **[Certification Name](CERTIFICATION_URL)** — Issuing Organization
+
 ## 📫 Connect With Me
 
 * LinkedIn:[https://www.linkedin.com/in/bhavani-pt-761456436/]
