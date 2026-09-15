@@ -87,7 +87,7 @@ I'm continuously building projects around backend development, distributed syste
 * AI-powered applications
 * Developer productivity and automation
 
-- **## 🎓 Certifications & Virtual Experience
+## 🎓 Certifications & Virtual Experience
 
 - [Google AI Fundamentals](./Google-AI-Fundamentals-Certificate.pdf) — Google
 - [Walmart Global Tech – Advanced Software Engineering Job Simulation](./Walmart-Software-Engineering-Certificate.pdf) — Forage
