@@ -92,9 +92,7 @@ I'm continuously building projects around backend development, distributed syste
 - [Google AI Fundamentals](./Google-AI-Fundamentals-Certificate.pdf) — Google
 - [Walmart Global Tech – Advanced Software Engineering Job Simulation](./Walmart-Software-Engineering-Certificate.pdf) — Forage
 
-## 📫 Connect With Me
 
-* LinkedIn:[https://www.linkedin.com/in/bhavani-pt-761456436/]
 
 ---
 
